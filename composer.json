@@ -1,0 +1,17 @@
+{
+    "name": "admin/news",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vasif"
+        }
+    ],
+    "require": {
+        "larapack/dd": "1.*"
+    }
+}
